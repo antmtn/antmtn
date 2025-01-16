@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A passionate frontend developer from the United States 🦅</h3>
+<h3 align="center">A passionate software developer from the United States 🦅</h3>
 
 - 📫 How to reach me **mt.anthonynguyen@gmail.com**
 
