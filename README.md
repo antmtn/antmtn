@@ -1,6 +1,6 @@
 # 💫 About Me:
-A passionate software developer from San Jose, CA 🦅<br>📫Reach me at mt.anthonynguyen@gmail.com 
-
+#### A passionate software developer from San Jose, CA 🦅
+#### 📫Reach me at mt.anthonynguyen@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-nguyen-467062256) 
